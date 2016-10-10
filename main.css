@@ -34,15 +34,14 @@ li{
 }
 
 h3{
-	color: gray;
+	color: darkgray;
 }
 
 
-.footer{
+.footer {
 	width: 1060px;
-	height: 60px;
-	background-color: darkgray;
+	height: 126px;
+	background-color:#607d8b;
+	padding-top:57px;
 }
-
-
 
