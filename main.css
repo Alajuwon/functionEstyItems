@@ -33,21 +33,16 @@ li{
 	list-style: none;
 }
 
-h4{
-	height: 15px;
-	color: black;
+h3{
+	color: gray;
 }
 
-.bottom-box{
+
+.footer{
 	width: 1060px;
-	height: 50px;
+	height: 60px;
+	background-color: darkgray;
 }
 
-ul{
-	font-size: 34px;
-}
 
-p{
-	font-size:14px;
-	margin-top: -45px;
-}
+
