@@ -110,6 +110,7 @@ console.log(tree)
 		return(y.materials.length > 8)
 	})
 //variable name "materials",so use materials for .ForEach
+var answer5=document.getElementById("answer5")
 	materials.forEach(function(item){
 		answer5.innerHTML += item.title;
 
@@ -134,8 +135,9 @@ console.log(tree)
 		return(z.who_made==="i_did")
 	})
 //variable name "sellers",so use sellers for .ForEach
+var answer6=document.getElementById("answer6")
 sellers.forEach(function(item){
-	answer6.innerHTML
+	answer6.innerHTML = sellers.length + ' ' + "were made by their seller";
 })
 
 
