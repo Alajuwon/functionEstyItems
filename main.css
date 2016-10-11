@@ -26,6 +26,8 @@
 	text-align: -webkit-center;
 	width: 1060px;
 	padding-left: 0px;
+	height:245px;
+
 
 }
 
@@ -34,7 +36,7 @@ li{
 }
 
 h3{
-	color: black;
+	color: darkgray;
 }
 
 
@@ -45,3 +47,6 @@ h3{
 	padding-top:57px;
 }
 
+h4{
+	height: 20px;
+}

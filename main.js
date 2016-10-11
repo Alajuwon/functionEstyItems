@@ -112,7 +112,7 @@ console.log(tree)
 //variable name "materials",so use materials for .ForEach
 var answer5=document.getElementById("answer5")
 	materials.forEach(function(item){
-		answer5.innerHTML += item.title;
+		answer5.innerHTML += item.title; 
 
 	})
 
